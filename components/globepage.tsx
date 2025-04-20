@@ -411,13 +411,7 @@ export function GlobeDemo() {
             Çok yakında yayındayız! Yazılım dünyasına değer katacak çözümlerle geliyoruz. 
           </p>
           <p className="text-md md:text-lg text-neutral-400 mt-6">
-          Bize ulaşın: 
-          <a 
-            href="mailto:info@marithen.com"
-            className="text-cyan-400 hover:text-cyan-500"
-          >
-            info@marithen.com
-          </a>
+          Bize ulaşın:  info@marithen.com
         </p>
         </motion.div>
   
