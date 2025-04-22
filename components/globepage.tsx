@@ -405,7 +405,7 @@ export function GlobeDemo() {
           className="text-center z-20 px-4"
         >
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white drop-shadow-lg">
-            Marithen Software
+            Marithen Software Caming Soon...
           </h1>
           <p className="text-lg md:text-xl lg:text-2xl font-medium text-neutral-300 mt-4 max-w-2xl mx-auto">
             Çok yakında yayındayız! Yazılım dünyasına değer katacak çözümlerle geliyoruz. 
